@@ -1,0 +1,17 @@
+{
+    "name": "Police English Training Center Kepolisian Daerah Kalimantan Tengah",
+    "short_name": "PET-C - Polda Kalteng",
+    "start_url": "https://petc.sdm.kalteng.polri.go.id/",
+    "display": "standalone",
+    "background_color": "#2a93d5",
+    "theme_color": "#2a93d5",
+    "categories": ["mobile", "multipurpose", "blog", "ecommerce", "pwa"],
+    "orientation": "portrait",
+    "description": "Police English Training Center Kepolisian Daerah Kalimantan Tengah",
+    "icons": [{
+        "src": "img/icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+    }]
+}
